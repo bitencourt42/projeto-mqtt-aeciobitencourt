@@ -24,5 +24,3 @@ Foram utilizadas as seguintes bibliotecas:
  
  Autor: Aécio Bitencourt
  
-  www.linkedin.com/in/bitencourtaecio
-
