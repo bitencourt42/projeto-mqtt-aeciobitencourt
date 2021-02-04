@@ -78,5 +78,7 @@ void loop()
 
 }
 
+//O mqttClient.loop é para a comunicação **continua** com o servidor MQTT na AWS
+
 
 
