@@ -23,5 +23,6 @@ Foram utilizadas as seguintes bibliotecas:
  ![Imagem do circuito](https://camo.githubusercontent.com/ad1da211b35b60b23fb095a64e76dc6504d0c3229e853bd82a69a4d5d27bbb88/68747470733a2f2f692e696d6775722e636f6d2f594947477453472e706e67)
  
  Autor: Aécio Bitencourt
- <a href="https://br.linkedin.com/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ 
+ <a href=" www.linkedin.com/in/bitencourtaecio/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  
